@@ -1,6 +1,9 @@
 # [Kaggle] DATA-SCIENCE-BOWL-2018
 ## : Find the nuclei in divergent images to advance medical discovery
 
+- Tensorflow
+- Keras
+
 ## 1. Dataset
 datset that I've used --> Kaggle data-science-bowl-2018
 https://www.kaggle.com/c/data-science-bowl-2018/data
@@ -14,7 +17,7 @@ I used U-Net network, which is an famous one as convolutional networks for Biome
 <img src='img/unet_img.png'>
 https://arxiv.org/pdf/1505.04597.pdf
 
-### plot_model
+## plot model
 <img src='img/plot_model.png'>
 
 ## 4. Result
