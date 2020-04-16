@@ -13,15 +13,17 @@ The intersection over union (IoU) metric is a simple metric used to evaluate the
 <img src='img/mean_iou.png'>
 
 ## 3. U-Net
-I used U-Net network, which is an famous one as convolutional networks for Biomedical image segmentation.
+I used U-Net network, which is the famous one as convolutional networks for Biomedical image segmentation.
 <img src='img/unet_img.png'>
 https://arxiv.org/pdf/1505.04597.pdf
 
 ## plot model
 <img src='img/plot_model.png'>
 
+
 ## 4. Result
 <img src='img/predict.png'>
+
 
 
 
